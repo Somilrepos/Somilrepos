@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Somilrepos
 - 👀 I’m very interested in understanding how the world of computer works.
 - 🌱 I’m currently learning Python(PyTorch), C++.
-- 📫 How to reach me - Message me on linkden.
+- 📫 How to reach me ? - Message me on linkden.
 
 <!---
 Somilrepos/Somilrepos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
